@@ -17,3 +17,9 @@ But a busy market did not keep me from thinking about the work. Those quotations
 - always changing - 投机活动存在的重要前提。
 - Why did they change? I didn't know. I didn't care. I didn't think about that. - 从原因得到结果很简单，但从结果反推原因却难如登天。有时候盘面已经提前反应出原因了，但当你知道原因后再操作就为时已晚了。
 
+That is how I first came to be interested in the behaviour of prices. I had a very good memory for figures. I could remember in detail how the prices had acted on the previous day, just before they went up or down. My fondness for mental arithmetic came in very handy. 这就是我最初对价格行为产生兴趣的原因。我对数字的记忆力非常好。我能详细记住前一天价格的走势，尤其是在它们上涨或下跌之前。我对心算的喜爱也派上了大用场。
+
+注解：
+- remember in detail - 再一次强调了记忆力的重要性。
+
+I noticed that in advances as well as declines, stock prices were apt to show certain habits, so to speak. There was no end of parallel cases and these made precedents to guide me. I was only fourteen, but after I had taken hundreds of observations in my mind I found myself testing their accuracy, comparing the behaviour of stocks to-day with other days. It was not long before I was anticipating movements in prices. My only guide, as I say, was their past performances. I carried the "dope sheets" in my mind. I looked for stock prices to run on form. I had "clocked" them. You know what I mean. 我注意到，在股价上涨和下跌的过程中，股票价格往往会表现出某些“习惯”，可以这么说。有无数类似的情况，这些都成了我用来指导自己的先例。那时我才十四岁，但在脑海中进行了数百次观察之后，我开始检验它们的准确性，把今天股票的表现与其他日子进行比较。没过多久，我就开始预测价格的变动了。正如我所说，我唯一的依据就是它们过去的表现。我把那些“情报表”都记在脑子里。我期待股票价格会按规律运行。我已经“计时”过它们了。你明白我的意思吧。
