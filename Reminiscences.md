@@ -23,3 +23,6 @@ That is how I first came to be interested in the behaviour of prices. I had a ve
 - remember in detail - 再一次强调了记忆力的重要性。
 
 I noticed that in advances as well as declines, stock prices were apt to show certain habits, so to speak. There was no end of parallel cases and these made precedents to guide me. I was only fourteen, but after I had taken hundreds of observations in my mind I found myself testing their accuracy, comparing the behaviour of stocks to-day with other days. It was not long before I was anticipating movements in prices. My only guide, as I say, was their past performances. I carried the "dope sheets" in my mind. I looked for stock prices to run on form. I had "clocked" them. You know what I mean. 我注意到，在股价上涨和下跌的过程中，股票价格往往会表现出某些“习惯”，可以这么说。有无数类似的情况，这些都成了我用来指导自己的先例。那时我才十四岁，但在脑海中进行了数百次观察之后，我开始检验它们的准确性，把今天股票的表现与其他日子进行比较。没过多久，我就开始预测价格的变动了。正如我所说，我唯一的依据就是它们过去的表现。我把那些“情报表”都记在脑子里。我期待股票价格会按规律运行。我已经“计时”过它们了。你明白我的意思吧。
+
+注解：
+- There was no end of parallel cases - 当某种情况反复出现，我们就可以总结其规律，就像人们总结出的太阳东升西落的规律一样。所以我们要大量的读盘才可以总结其规律。当然这里记忆力相当重要，如果脑海中无法记住大量的行情数据，大脑是无法总结出经验的。
